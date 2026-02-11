@@ -33,14 +33,14 @@
 
 .img-section {
     background-color: #E1D9BC;
-    border: 1px solid;
+    
     height: 523px;
     padding-top: 5px;
 
     p {
         width: 80%;
         color: #30364F;
-        /* text-shadow: 1px 1px 2px rgb(0, 0, 0); */
+        
         font-size: large;
         font-weight: bold;
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -49,11 +49,10 @@
     }
 
     img {
-        border: 1px solid;
+        
         border: #30364F;
         transform: translate(60%, -35%);
         border-radius: 50%;
-        
         box-shadow:5px 5px 20px 1px #a7b6f1;
     }
 
