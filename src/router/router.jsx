@@ -4,10 +4,12 @@ import About from "../pages/About/About";
 import HomePage from "../pages/Home/HomePage";
 import ProjectPage from "../pages/ProjectPage/ProjectPage";
 import App from '../App';
-// import ProjectDetails from '../pages/ProjectDetails/ProjectDetails';
 
-// import SkillPage from '../pages/Skills/SkillPage';
-// import ContactPage from '../pages/ContactPage/ContactPage';
+import ProjectDetails from '../pages/ProjectDetails/ProjectDetail';
+
+import SkillPage from '../pages/SkillPage/SkillPage';
+import ContactPage from '../pages/ContactPage/ContactPage';
+
 
 const my_router = createBrowserRouter(
     [
@@ -28,10 +30,14 @@ const my_router = createBrowserRouter(
                     element:<ProjectPage/>
                 },
         
-                // {
-                //     path:'/Contact',
-                //     element:<ContactPage/>
-                // }
+                {
+                    path:'/Contact',
+                    element:<ContactPage/>
+                },
+                {
+                    path:'/SkillPage',
+                    element:<SkillPage/>
+                }
 
 
             ]

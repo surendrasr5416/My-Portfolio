@@ -1,6 +1,6 @@
 import ProjectCard from '../ProjectCard/ProjectCard';
 // import './HomePage.css'
-import projects_list from '../../data/projects';
+import { projects_list } from '../../data/projects';
 
 
 

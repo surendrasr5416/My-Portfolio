@@ -19,7 +19,7 @@ export default function Naavbar(){
           <NavLink to="/About" className="nav-link">About</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink to="/Skills" className="nav-link">Skills</NavLink>
+          <NavLink to="/SkillPage" className="nav-link">Skills</NavLink>
         </li>
         <li className="nav-item">
           <NavLink to="/Projects" className="nav-link">Projects</NavLink>

@@ -7,7 +7,7 @@ export default function ContactPage() {
                 <section className='a'>
 <div className="left-area">
                     <h1>
-                        To Contact
+                        To Contact,
                     </h1>
                     <h1>
                         +91 7842378018

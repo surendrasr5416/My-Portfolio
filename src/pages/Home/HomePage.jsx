@@ -15,7 +15,7 @@ function HomePage() {
             <div className='text-end'>
                 <p >I'm a <br />Developer and Designer</p>
             </div>
-            <img src="images/img2.jpg" width={'430px'} alt="" />
+            <img src="images/mainpic.jpg" width={'430px'} alt="" />
 
         </section>
 

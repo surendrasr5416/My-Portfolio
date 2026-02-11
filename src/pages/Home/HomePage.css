@@ -33,7 +33,7 @@
 
 .img-section {
     background-color: #E1D9BC;
-    /* border: 1px solid; */
+    border: 1px solid;
     height: 523px;
     padding-top: 5px;
 
@@ -48,10 +48,13 @@
 
     }
 
-    /* img {
+    img {
+        border: 1px solid;
+        border: #30364F;
         transform: translate(60%, -35%);
         border-radius: 50%;
+        
         box-shadow:5px 5px 20px 1px #a7b6f1;
-    } */
+    }
 
 }
