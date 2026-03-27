@@ -2,6 +2,7 @@ import './HomePage.css';
 
 function HomePage() {
     return <>
+    {/* <h1>this is HomePage</h1> */}
         <section className='name-section'>
             <section className='home-page d-flex justify-content'>
 

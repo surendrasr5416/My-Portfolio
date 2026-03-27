@@ -3,8 +3,6 @@ import ProjectCard from '../ProjectCard/ProjectCard';
 import { projects_list } from '../../data/projects';
 
 
-
-
 export default function ProjectPage() {
     return (
         <>
